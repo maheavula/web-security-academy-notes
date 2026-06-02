@@ -1,0 +1,76 @@
+==============================================================================
+DIET REEL — PROTEIN / FIBER / ZINC OVERLAY PROMPT   |   @mahe_r.eddits
+==============================================================================
+
+WHAT THIS DOES
+You upload your real meal photo / video frame, type in the numbers you looked
+up, and the AI only does the stylish editing — it places a clean label on each
+food item showing Protein, Fiber and Zinc, and adds a TOTAL badge. The AI does
+NOT calculate anything; you give the numbers, so the values stay accurate.
+
+WHICH TOOL TO USE (must be able to edit YOUR photo)
+  • Google Gemini image edit ("Nano Banana")   — best
+  • ChatGPT (upload the frame, ask it to edit)  — also great
+  (A plain text-to-image tool like Midjourney can't annotate your real food.)
+
+WHERE TO GET THE NUMBERS (free)
+  • Cronometer  -> cronometer.com  (free, in browser; shows protein, fiber & zinc
+    per item from the USDA database. For nuts/seeds pick the plain USDA entry.)
+  • Quick single-item backup -> USDA FoodData Central -> fdc.nal.usda.gov
+  Units: Protein & Fiber = grams (g).  Zinc = milligrams (mg).
+
+------------------------------------------------------------------------------
+THE PROMPT  (fill the [BRACKETS], then paste with your photo)
+------------------------------------------------------------------------------
+Using the meal photo I've uploaded, keep the photo exactly as it is — do not
+change, move, recolour or regenerate the food, plate, lighting or background.
+Only add a clean, stylish nutrient-label overlay on top of it for a vertical
+9:16 Instagram fitness Reel. For each food item listed below, add a small modern
+label connected to that item by a thin pointer line ending in a small dot, and
+display EXACTLY these names and values without calculating or changing any
+number — just show what I give you:
+
+[ITEM 1 — e.g. 2 Boiled Eggs] — Protein [12g] · Fiber [0g] · Zinc [1.3mg]
+[ITEM 2 — e.g. Almonds (15)] — Protein [6g] · Fiber [3g] · Zinc [0.9mg]
+[ITEM 3 — e.g. Pumpkin Seeds (1 tbsp)] — Protein [3g] · Fiber [1g] · Zinc [2mg]
+[ITEM 4 — e.g. Oats (40g)] — Protein [5g] · Fiber [4g] · Zinc [1.5mg]
+[ITEM 5 — e.g. Apple] — Protein [0g] · Fiber [4g] · Zinc [0.1mg]
+
+Put each label on a small rounded semi-transparent dark chip with the three
+values in a neat single row (Protein, then Fiber, then Zinc), each value with a
+tiny coloured dot before it (green for protein, amber for fiber, blue for zinc).
+Use a bold, high-contrast sans-serif font (Poppins / Montserrat style) in white,
+so it's readable on any background. Place every label in the empty space around
+the food so it never covers the food itself, and never let two labels overlap.
+In the top-right corner add one bold rounded "TOTAL" pill showing the summed
+totals I provide: TOTAL — Protein [26g] · Fiber [12g] · Zinc [5.8mg]. Use clean
+green-and-white accents for a premium nutrition-app look. Keep a vertical 9:16
+layout with all text inside the central safe zone (leave clear space at the very
+top and very bottom so Instagram's buttons don't cover it). Modern, minimal,
+crisp and professional.
+
+------------------------------------------------------------------------------
+WORKED EXAMPLE  (swap in your own photo — numbers are samples, verify yours)
+------------------------------------------------------------------------------
+Using my uploaded plate photo, keep the photo exactly as it is and only add a
+stylish nutrient overlay for a 9:16 fitness Reel. Add a clean label with a thin
+pointer line to each item, showing exactly these values without changing them:
+Boiled Eggs (2) — Protein 12g · Fiber 0g · Zinc 1.3mg
+Almonds (15) — Protein 6g · Fiber 3g · Zinc 0.9mg
+Walnuts (4) — Protein 3g · Fiber 1g · Zinc 0.6mg
+Pumpkin Seeds (1 tbsp) — Protein 3g · Fiber 1g · Zinc 2mg
+Apple — Protein 0g · Fiber 4g · Zinc 0.1mg
+Each label on a rounded semi-transparent dark chip, bold white Poppins font,
+three values in a row with small coloured dots (green=protein, amber=fiber,
+blue=zinc). Labels in empty space only, never on the food, never overlapping.
+Add a "TOTAL — Protein 24g · Fiber 9g · Zinc 4.9mg" green pill in the top-right
+corner. Premium nutrition-app aesthetic, green-and-white accents, all text in
+the central safe zone, modern and minimal.
+
+------------------------------------------------------------------------------
+TIPS
+  • Keep it to 4–6 items per frame max — fewer labels read much cleaner on a phone.
+  • If the AI misspells text or labels overlap, just regenerate once or twice.
+  • Looking up values once and saving them as "favourites" in Cronometer makes
+    future diet reels take seconds.
+==============================================================================
